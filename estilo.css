@@ -1,0 +1,22 @@
+p {
+    font-size: 1.5em;
+    color: black;  
+
+  }
+  body {
+    background-image: url("/imagenspng/image00.jpg");
+
+    background-repeat: repeat-x;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  } 
+
+  #conteudo { 
+  text-align: center;
+  }  
+
+  a { 
+    color: blue;
+    text-decoration: unset;
+    font-weight: bold;
+          
+          } 
