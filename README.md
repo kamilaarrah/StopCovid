@@ -1,5 +1,5 @@
 # StopCovid
-*o script Alert eu coloquei depois que já estávamos em outro desafio*  Mas então esse foi meu singelo site após as ulas
+*o script Alert eu coloquei depois que já estávamos em outro desafio*  Mas sim esse foi meu primeiro singelo site.
 .
 .
 *Olá, este foi meu primeiro projeto, usando HTML e CSS (de acordo com o desafio proposto)
